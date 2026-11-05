@@ -59,13 +59,14 @@
             "id": "60d924af547f8af9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Projetos/Impacto/Links.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Links"
             }
           },
           {
@@ -245,9 +246,11 @@
   },
   "active": "60d924af547f8af9",
   "lastOpenFiles": [
+    "VS Code Themes.md",
+    "YouTube/Prompt.md",
+    "Untitled.base",
     "teste-dev-obsidian.md",
     "Everest/Claude.md",
-    "YouTube/Prompt.md",
     "Everest/Informes/Notas.md",
     "Everest/Resolver.md",
     "Everest/Filas e Works.md",
@@ -271,9 +274,7 @@
     "Everest/Assembleia/Pendências.md",
     "Everest/Assembleia/Dúvidas.md",
     "Everest/Assembleia/Ajustes.md",
-    "WordPress/Notas.md",
     "Everest/Assembleia",
-    "Untitled.base",
     "Astro",
     "Pasted image 20251104094831.png",
     "Tanstack/images",
