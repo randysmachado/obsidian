@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste.md",
+                "file": "Projetos/Crédito Rural/Notas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "teste"
+              "title": "Notas"
             }
           }
         ]
@@ -169,8 +169,19 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "7cb6cfe40a9773c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,7 +202,39 @@
   },
   "active": "219adf0d0fc55494",
   "lastOpenFiles": [
-    "Bem-vindo.md",
-    "teste.md"
+    "Serviços/MapBiomas.md",
+    "teste.md",
+    "Pen.dev.md",
+    "Serviços",
+    "Projetos/Open source/Olhar depois.md",
+    "Projetos/Open source",
+    "Projetos/Crédito Rural/Notas.md",
+    "Projetos/Crédito Rural",
+    "Projetos/GeoMap/Domínio.md",
+    "Projetos/GeoMap/Servidor.md",
+    "Projetos/GeoMap/MapBiomas.md",
+    "Projetos/GeoMap/Info Simples.md",
+    "Projetos/GeoMap",
+    "Projetos/Planejador Alimentar/Notas.md",
+    "Projetos/Planejador Alimentar",
+    "Projetos",
+    "Livros/Livro do Desassossego - Fernando Pessoa/Resenha.md",
+    "Livros/Livro do Desassossego - Fernando Pessoa/Notas.md",
+    "Livros/Livro do Desassossego - Fernando Pessoa",
+    "Livros",
+    "Inglês/Notes.md",
+    "Inglês",
+    "I.A/Começar projeto.md",
+    "I.A",
+    "Hospedagem/randysmachado.dev.md",
+    "Embrapa/APIs.md",
+    "Diário/2026/11 - Outubro.md",
+    "Clientes/Liber/Servidor.md",
+    "Clientes/Impacto/Emails.md",
+    "Clientes/Impacto/Servidor.md",
+    "Clientes/Impacto/Plataforma de aulas.md",
+    "Clientes/SAAE.md",
+    "Brave/Conta brave.md",
+    "Bem-vindo.md"
   ]
 }
