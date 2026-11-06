@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Impacto/Links.md",
+                "file": "Astro/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Notes"
             }
           },
           {
@@ -246,6 +246,9 @@
   },
   "active": "60d924af547f8af9",
   "lastOpenFiles": [
+    "Astro/Escrever sobre.md",
+    "Projetos/Impacto/Links.md",
+    "Afiliados/Click Bank/Possíveis Produtos para anúnciar.md",
     "VS Code Themes.md",
     "YouTube/Prompt.md",
     "Untitled.base",
@@ -265,15 +268,12 @@
     "Astro/Notes.md",
     "Blog/WordPress/Ideias de posts.md",
     "Blog/Novo blog.md",
-    "Astro/Escrever sobre.md",
     "Ideias/Site para criar e colocar anúncios.md",
     "Blog/Escrever sobre.md",
     "Blog/Features.md",
     "Markdown TIPS/TIPS.md",
     "Everest/Informes",
     "Everest/Assembleia/Pendências.md",
-    "Everest/Assembleia/Dúvidas.md",
-    "Everest/Assembleia/Ajustes.md",
     "Everest/Assembleia",
     "Astro",
     "Pasted image 20251104094831.png",
