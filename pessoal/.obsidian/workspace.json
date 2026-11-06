@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Crédito Rural/Notas.md",
+                "file": "Brave/Conta brave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas"
+              "title": "Conta brave"
             }
           }
         ]
@@ -202,13 +202,13 @@
   },
   "active": "219adf0d0fc55494",
   "lastOpenFiles": [
+    "Projetos/Crédito Rural/Notas.md",
     "Serviços/MapBiomas.md",
     "teste.md",
     "Pen.dev.md",
     "Serviços",
     "Projetos/Open source/Olhar depois.md",
     "Projetos/Open source",
-    "Projetos/Crédito Rural/Notas.md",
     "Projetos/Crédito Rural",
     "Projetos/GeoMap/Domínio.md",
     "Projetos/GeoMap/Servidor.md",
