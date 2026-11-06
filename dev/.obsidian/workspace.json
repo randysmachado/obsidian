@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,8 +244,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "60d924af547f8af9",
+  "active": "ec871214a23ca0c8",
   "lastOpenFiles": [
+    "Blog/WordPress/Ideias de posts.md",
     "Astro/Notes.md",
     "Astro/Escrever sobre.md",
     "Projetos/Impacto/Links.md",
@@ -266,7 +267,6 @@
     "Everest/Banco de dados Externo.md",
     "Everest/Deploy.md",
     "Tanstack/Form.md",
-    "Blog/WordPress/Ideias de posts.md",
     "Blog/Novo blog.md",
     "Ideias/Site para criar e colocar anúncios.md",
     "Blog/Escrever sobre.md",
