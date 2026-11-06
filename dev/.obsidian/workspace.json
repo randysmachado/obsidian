@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astro/Notes.md",
+                "file": "Blog/WordPress/Ideias de posts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Ideias de posts"
             }
           },
           {
@@ -246,6 +246,7 @@
   },
   "active": "60d924af547f8af9",
   "lastOpenFiles": [
+    "Astro/Notes.md",
     "Astro/Escrever sobre.md",
     "Projetos/Impacto/Links.md",
     "Afiliados/Click Bank/Possíveis Produtos para anúnciar.md",
@@ -265,7 +266,6 @@
     "Everest/Banco de dados Externo.md",
     "Everest/Deploy.md",
     "Tanstack/Form.md",
-    "Astro/Notes.md",
     "Blog/WordPress/Ideias de posts.md",
     "Blog/Novo blog.md",
     "Ideias/Site para criar e colocar anúncios.md",
